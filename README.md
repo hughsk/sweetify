@@ -1,4 +1,6 @@
-# sweetify #
+# sweetify [![deprecated](http://badges.github.io/stability-badges/dist/deprecated.svg)](http://github.com/badges/stability-badges) #
+
+**This module has been replaced by [@andreypopp](http://github.com/andreypopp)'s implementation, which [you can find here](http://github.com/andreypopp/sweetify).**
 
 A [browserify](http://browserify.org/) transform for
 [sweet.js](http://sweetjs.org/), which brings hygienic macros to JavaScript.
